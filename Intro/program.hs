@@ -4,5 +4,5 @@ factorial 0=1
 factorial n=n*factorial(n-1)
 
 double :: Integer -> Integer    
-    --multiplies a num per two
+    --double a number
 double x = 2 * x
